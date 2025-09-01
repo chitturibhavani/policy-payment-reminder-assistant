@@ -1,0 +1,44 @@
+{
+  "customers": [
+    {
+      "customerId": "123",
+      "name": "Anita Rao",
+      "phone": "+91-90000-11111",
+      "email": "anita.rao@example.com",
+      "policies": [
+        {
+          "policyNumber": "POL12345",
+          "amountDue": 5000,
+          "dueDate": "2025-09-10",
+          "status": "Pending"
+        },
+        {
+          "policyNumber": "POL67890",
+          "amountDue": 3000,
+          "dueDate": "2025-09-15",
+          "status": "Pending"
+        },
+        {
+          "policyNumber": "policy",
+          "amountDue": 2500,
+          "dueDate": "2025-09-15",
+          "status": "Pending"
+        }
+      ]
+    },
+    {
+      "customerId": "456",
+      "name": "Arjun Singh",
+      "phone": "+91-98888-22222",
+      "email": "arjun.singh@example.com",
+      "policies": [
+        {
+          "policyNumber": "POL24680",
+          "amountDue": 4200,
+          "dueDate": "2025-09-11",
+          "status": "Pending"
+        }
+      ]
+    }
+  ]
+}
